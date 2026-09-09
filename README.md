@@ -8,28 +8,25 @@ Fitur utama aplikasi meliputi: autentikasi pengguna, modul materi literasi hoaks
 
 # Tampilan Aplikasi
 
-### Baris 1 (Gambar 1 - 3)
+### Preview
 <p align="center">
   <img src="./assets/pict/preview1.jpg" width="30%" alt="Welcome Screen" />
   <img src="./assets/pict/preview2.jpg" width="30%" alt="Login Screen" />
   <img src="./assets/pict/preview3.jpg" width="30%" alt="Sign Up Screen" />
 </p>
 
-### Baris 2 (Gambar 4 - 6)
 <p align="center">
   <img src="./assets/pict/preview4.jpg" width="30%" alt="Home Screen" />
   <img src="./assets/pict/preview5.jpg" width="30%" alt="Material Screen" />
   <img src="./assets/pict/preview6.jpg" width="30%" alt="Quiz Screen" />
 </p>
 
-### Baris 3 (Gambar 7 - 9)
 <p align="center">
   <img src="./assets/pict/preview7.jpg" width="30%" alt="Result Screen" />
   <img src="./assets/pict/preview8.jpg" width="30%" alt="History Screen" />
   <img src="./assets/pict/preview9.jpg" width="30%" alt="Review Screen" />
 </p>
 
-### Gambar Ke-10
 <p align="center">
   <img src="./assets/pict/preview10.jpg" width="45%" alt="Profile Screen" />
 </p>
